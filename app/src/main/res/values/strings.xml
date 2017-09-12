@@ -2,4 +2,5 @@
     <string name="app_name">First test</string>
     <string name="hello_text">Hello Android!</string>
     <string name="hello_text_land">Hello landscape World!</string>
+    <string name="another_string">Testting testing</string>
 </resources>
